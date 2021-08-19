@@ -1,0 +1,1 @@
+This is the first project in the Web Development 101 course from The Odin Project. I will be starting with the easy version by building a replica of the Google homepage. 
